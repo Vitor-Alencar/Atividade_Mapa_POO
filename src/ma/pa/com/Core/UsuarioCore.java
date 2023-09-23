@@ -22,3 +22,4 @@ public class UsuarioCore {
         return userDao.pesquisar(usuario);
     }
 }
+
